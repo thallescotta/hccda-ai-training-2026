@@ -40,6 +40,17 @@ O treinamento está ligado à certificação **HCCDA – Artificial Intelligence
 
 <!-- Opcional: adicione o status (por exemplo, exame agendado ou aprovado) e a data. -->
 
+## 🏆 Campanha de Certificação Huawei na Claro
+
+Campanha de Certificação Huawei na Claro, com premiações para os colaboradores que conquistarem suas certificações e atenderem aos critérios da campanha.
+
+![Campanha de Certificação Huawei na Claro](Campanha%20de%20Certifica%C3%A7%C3%A3o%20Huawei%20na%20Claro.jpg)
+
+Caso sobrem prêmios do Grupo 2, eles serão concedidos aos primeiros colaboradores que conquistarem sua primeira certificação Huawei. Para fins de classificação, será considerada a data em que cada colaborador obteve a certificação.
+
+
+**Data de fechamento da campanha: 30/11/2026.**
+
 ## 🔗 Links usados no notebook
 
 | Link | O que é |
